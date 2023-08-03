@@ -22,6 +22,14 @@ body {
   width: 300px;
   background-color: hsl(31, 77%, 52%);
 }
+.container .container1 img {
+  padding: 50px 0px 0px 40px;
+}
+.container .container1 h1 {
+  color: white;
+  font-weight: 700;
+  padding: 20px 0px 0px 40px;
+}
 .container .container2 {
   height: 100%;
   width: 300px;
