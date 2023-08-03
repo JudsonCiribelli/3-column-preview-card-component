@@ -21,6 +21,8 @@ body {
   height: 100%;
   width: 300px;
   background-color: hsl(31, 77%, 52%);
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
 }
 .container .container1 img {
   padding: 50px 0px 0px 40px;
@@ -57,6 +59,8 @@ body {
   height: 100%;
   width: 300px;
   background-color: hsl(179, 100%, 13%);
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
 .container .container3 img {
   padding: 50px 0px 0px 40px;
@@ -71,7 +75,33 @@ body {
   font-weight: 400;
   padding: 30px 0px 0px 40px;
 }
-.container .btn {
-  width: 100px;
-  height: 60px;
+.container .btn1 {
+  cursor: pointer;
+  width: 150px;
+  height: 45px;
+  margin: 150px 0px 0px 40px;
+  border: none;
+  border-radius: 30px;
+  font-weight: 700;
+  color: hsl(31, 77%, 52%);
+}
+.container .btn2 {
+  cursor: pointer;
+  width: 150px;
+  height: 45px;
+  margin: 150px 0px 0px 40px;
+  border: none;
+  border-radius: 30px;
+  font-weight: 700;
+  color: hsl(184, 100%, 22%);
+}
+.container .btn3 {
+  cursor: pointer;
+  width: 150px;
+  height: 45px;
+  margin: 150px 0px 0px 40px;
+  border: none;
+  border-radius: 30px;
+  font-weight: 700;
+  color: hsl(179, 100%, 13%);
 }
