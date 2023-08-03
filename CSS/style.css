@@ -30,6 +30,11 @@ body {
   font-weight: 700;
   padding: 20px 0px 0px 40px;
 }
+.container .container1 p {
+  color: hsla(0, 0%, 100%, 0.75);
+  font-weight: 400;
+  padding: 20px 0px 0px 40px;
+}
 .container .container2 {
   height: 100%;
   width: 300px;
