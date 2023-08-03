@@ -58,3 +58,20 @@ body {
   width: 300px;
   background-color: hsl(179, 100%, 13%);
 }
+.container .container3 img {
+  padding: 50px 0px 0px 40px;
+}
+.container .container3 h1 {
+  color: white;
+  font-weight: 700;
+  padding: 20px 0px 0px 40px;
+}
+.container .container3 p {
+  color: hsla(0, 0%, 100%, 0.75);
+  font-weight: 400;
+  padding: 30px 0px 0px 40px;
+}
+.container .btn {
+  width: 100px;
+  height: 60px;
+}
